@@ -11,6 +11,7 @@ CATEGORIES = {
     "Images":    {".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp", ".ico", ".tiff"},
     "Videos":    {".mp4", ".mov", ".avi", ".mkv", ".wmv", ".flv", ".webm"},
     "Audio":     {".mp3", ".wav", ".flac", ".aac", ".ogg", ".m4a", ".wma"},
+    "ISO":       {".iso"},
     "Documents": {".pdf", ".doc", ".docx", ".xls", ".xlsx", ".ppt", ".pptx", ".odt", ".txt", ".rtf"},
     "Archives":  {".zip", ".tar", ".gz", ".rar", ".7z", ".bz2"},
     "Code":      {".py", ".js", ".ts", ".html", ".css", ".java", ".c", ".cpp", ".go", ".rs", ".sh"},
